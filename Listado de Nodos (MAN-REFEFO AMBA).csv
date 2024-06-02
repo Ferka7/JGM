@@ -1,0 +1,201 @@
+TIPO;ESTADO;RED;NOMENCLATURA;EQUIPO A;EQUIPO B;DEPENDENCIA;DIRECCION;LATITUD;LONGITUD;LOCALIDAD;PROVINCIA;ACOMETIDA 1;ACOMETIDA 2;TRIBUTARIO;CONEXIÓN OTRAS DEPENDENCIAS;OTRAS DEPENDENCIAS;SERVICIOS REGULARIZADOS;INFRAESTRUCTURA INSTALADA;OBSERVACIONES;MIGRAR;EJECUTIVO DE CUENTA
+Nodo;ACTIVO;MAN ;CANCILL_M_40322.arsat.com;ASR9KPHAC01;-;Cancillería;Esmeralda 1216;-34,593861;-58,378867;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;TASA;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Sin Asignación
+Nodo;ACTIVO;MAN ;MIN_DES_SOCIAL.arsat.com;ASR9KPHAC01;-;Ministerio de Desarrollo Social;Av. 9 de Julio 1925, Piso 20;-34,612147;-58,381655;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;-;METROTEL;SI;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Julio Bort
+Nodo;ACTIVO;MAN ;MIN_SALUD_GCBA;ASR9KPHAC01;-;Ministerio de Salud GCBA;Av. 9 de Julio 1925, Piso 5;-34,612147;-58,381655;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;CIRION;-;SI;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;María del Mar Andrada
+Nodo;ACTIVO;MAN ;MIN_AGROINDUSTRIA;ASR9KPHAC01;-;Ministerio de Agricultura, Ganaderia y Pesca;Av. Paseo Colón 982;-34,618603;-58,368063;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Martín Iguaín
+Nodo;ACTIVO;MAN ;MIN_CyT_M_40325.arsat.com;ASR9KPHAC01;ASR9KPBNZ01;Ministerio de Ciencia, Tecnología e Innovación Productiva;Godoy Cruz 2320 Piso 1;-34,582828;-58,429451;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Miguel Tobia
+Nodo;ACTIVO;MAN ;CCK_M_29474;ASR9KPHAC01;ASR9KPBNZ01;CCK;Sarmiento 151 piso 7;-34,603280;-58,369449;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Miguel Tobia
+Nodo;ACTIVO;MAN ;AABE_M_40317.arsat.com;ASR9KPHAC01;ASR9KPBNZ01;AABE;Av. Ramos Mejía 1302;-34,592231;-58,375178;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;SI;SI;AABE, SOFSE, ADIFSE;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Miguel Tobia
+Nodo;ACTIVO;MAN ;"
+MIGRACIONES_TASA.arsat.com";ASR9KPHAC01;-;Dirección Nacional de Migraciones;Av. Antártida Argentina 1355;-34,592878;-58,369411;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;-;NO;NO;-;SI;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Pablo Olivera
+Nodo;ACTIVO;MAN ;MIN_SEG;ASR9KPHAC01;ASR9KPBNZ01;Ministerio de Seguridad;México 12;-34,614749;-58,367239;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;SI;SI;PNA, PSA;SI, NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Miguel Tobia
+Nodo;ACTIVO;MAN ;PUERTO BUENOS AIRES;MIN_SEG;-;Puerto Buenos Aires;NN;-34,614749;-58,367239;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;-;-;SI;NO;-;SI, NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Miguel Tobia
+Nodo;ACTIVO;MAN ;IAF;ASR9KPHAC01;ASR9KPBNZ01;Instituto de Ayuda Financiera;Cerrito 572;-34,601557;-58,382638;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;María del Mar Andrada
+Nodo;ACTIVO;MAN ;AAIP;ASR9KPHAC01;-;Agencia de Acceso a la Información Pública;Av. Julio A. Roca 710;-34,611755;-58,375957;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;CLIENTE;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Miguel Tobia
+Nodo;ACTIVO;MAN ;PAMI;ASR9KPHAC01;ASR9KPBNZ01;PAMI;Paraná 555;-34,602329;-58,387867;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;CENTURY;IPLAN;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;María del Mar Andrada
+Nodo;ACTIVO;MAN ;SOFSE_BULLRICH;ASR9KPHAC01;-;SOFSE-Trenes Argentinos;Av. Int. Bullrich 2, 1° piso;-34,571751;-58,422969;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Sin Asignación
+Nodo;ACTIVO;MAN ;MIN_TRAN;ASR9KPHAC01;-;Ministerio de Transporte;Av. Paseo Colón 315;-34,611418;-58,369798;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Martín Iguaín
+Nodo;ACTIVO;MAN ;MIN_TRA;ASR9KPHAC01;ASR9KPBNZ01;Ministerio de Trabajo;Av. Leandro N. Alem 650 Piso 9;-34,600310;-58,370901;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Pablo Olivera
+Nodo;ACTIVO;MAN ;ROSADA;ASR9KPHAC01;ASR9KPBNZ01;Casa Rosada;25 de Mayo 175;-34,608580;-58,370289;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Miguel Tobia
+Nodo;ACTIVO;MAN ;GNA;ASR9KPHAC01;-;Gendarmeria Nacional Argentina;Av. Antártida Argentina 1428;-34,583273;-58,373888;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Francisco Jasminoy
+Nodo;ACTIVO;MAN ;MODER_T;ASR9KPHAC01;ASR9KPBNZ01;Secretaría de Innovación Pública;Av. Pres. Roque Sáenz Peña 511;-34,607592;-58,373823;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;IPLAN;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Miguel Tobia
+Nodo;ACTIVO;MAN ;MIN_DEFENSA;ASR9KPHAC01;ASR9KPBNZ01;Ministerio de Defensa;Azopardo 250 Piso 11;-34,611780;-58,367450;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;SI;SI;Estado Mayor Conjunto, Ejercito Argentino;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;María del Mar Andrada
+Nodo;ACTIVO;MAN ;MIN_JUSTICIA;ASR9KPHAC01;-;Ministerio de Justicia y Derechos Humanos;Sarmiento 329 1° Subsuelo;-34,604186;-58,371495;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Pablo Olivera
+Nodo;ACTIVO;MAN ;JGM;ASR9KPHAC01;ASR9KPBNZ01;Jefatura de Gabinete de Ministros ;Julio Argentino Roca 782 Piso 5;-34,612686;-58,377037;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;IPLAN;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Miguel Tobia
+Nodo;ACTIVO;MAN ;MIN_INT;ASR9KPHAC01;ASR9KPBNZ01;Ministerio del Interior;Leandro N. Alem 168 PB;-34,605602;-58,370340;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Martín Iguaín
+Nodo;ACTIVO;MAN ;MIN_TUR;ASR9KPHAC01;ASR9KPBNZ01;Ministerio de Turismo;Suipacha 1111 piso 13;-34,594872;-58,379797;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;METROTEL;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Martín Iguaín
+Nodo;ACTIVO;MAN ;MIN_AMB;ASR9KPHAC01;ASR9KPBNZ01;Ministerio de Ambiente;San Martin 451 Piso 5;-34,602557;-58,373768;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;METROTEL;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;SI;Pablo Olivera
+Nodo;ACTIVO;MAN ;MIN CULTURA;ASR9KPHAC01;-;Ministerio de Cultura;Sanchez de Bustamante 53;-34,609991;-58,414593;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;TASA;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Julio Bort
+Nodo;ACTIVO;MAN ;UBA;ASR9KPHAC01;-;Universidad de Buenos Aires;Uriburu 860;-34,598855;-58,399250;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;IPLAN;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Julio Bort
+Nodo;ACTIVO;MAN ;PSA;ASR9KPBNZ01;-;Policia de Seguridad Aeropuertaria;Joaquin V. Gonzalez 50;-34,788530;-58,522120;Ezeiza;Buenos Aires;-;-;NO;NO;-;SI;Sin datos.;En sitio ARSAT colocó un router Cisco ASR1000x.;NO;Sin Asignación
+Nodo;ACTIVO;MAN ;ANSES;BENAVIDEZ2;-;ANSES;Piedras 361;-34,612460;-58,377924;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;-;-;NO;NO;-;NO;Sin datos.;En sitio ARSAT colocó un router Cisco ASR;NO;Pablo Olivera
+Nodo;ACTIVO;REFEFO AMBA;CIU10AC11;CIU66AC11;CIU67AC11;ACUMAR;Esmeralda 255;-34,605584;-58,377408;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;Ministerio de Obras Públicas, Ministerio de Hábitat;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Tiene un cable puente entre el ODF de ACUMAR y el ODF que se instaló en el DC del Ministerio.;OK;Martín Iguaín
+ODF;ACTIVO;REFEFO AMBA;CIU10AC11;-;-;Ministerio de Hábitat;Esmeralda 255;-34,605584;-58,377408;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI;Cable Puente;Tiene un cable puente entre el ODF de ACUMAR y el ODF que se instaló en el DC del Ministerio.;OK;Martín Iguaín
+ODF;ACTIVO;REFEFO AMBA;CIU10AC11;-;-;Ministerio de Obras Públicas;Esmeralda 255;-34,605584;-58,377408;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI;Cable Puente;Tiene un cable puente entre el ODF de ACUMAR y el ODF que se instaló en el DC del Ministerio.;OK;Martín Iguaín
+Nodo;SUSPENDIDO;REFEFO AMBA;CIU12AC11;NN;NN;ENRE Ente Nacional Regulador de la Electricidad;Suipacha 615;-34,600284;-58,379461;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NN;"Obra civil terminada
+Cámara en Vereda y
+Acometida a Edificio.";El organismo no facilitó la instalación, la traba es el conveniol los servicios, el costo, etc. ver si se puede vender servicios y así avanzar con la obra.;NO;Sin Asignación
+Nodo;SUSPENDIDO;REFEFO AMBA;CIU13AC11;NN;NN;Instituto Nacional de Asociativismo y Economía Social;Av. Belgrano 1656;-34,613703;-58,389790;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NN;"Obra civil terminada
+Cámara en Vereda y
+Acometida a Edificio.";"Sin conectar
+Se conecta localmente en el mismo DC dde está el ATN";NO;Sin Asignación
+Nodo;ACTIVO;REFEFO AMBA;CIU15AC11;CIU65AG11H;CBA2AG11H;Secretaria Legal y Tecnica;Suipacha 767;-34,599355;-58,379484;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;OK;Sin Asignación
+Nodo;EN OBRA;REFEFO AMBA;CIU18AC11;NN;NN;PAMI;Paraná 555;-34,602329;-58,387867;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NO;A DEFINIR;90/120 días de Obra;NO;María del Mar Andrada
+Nodo;EN OBRA;REFEFO AMBA;CIU19AC11;NN;NN;Universidad de Buenos Aires;Uriburu 860;-34,598855;-58,399250;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NO;A DEFINIR;90/120 días de Obra;NO;Julio Bort
+Nodo;ACTIVO;REFEFO AMBA;CIU28AC11;CIU33AC11;CIU28AC11;Ministerio de Ambiente;San Martin 451 Piso 5;-34,602557;-58,373768;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;SI;Pablo Olivera
+Nodo;ACTIVO;REFEFO AMBA;CIU30AC11;CIU65AG11H ;CIU38AC11;Ministerio de Seguridad;México 12;-34,614749;-58,367239;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;PFA, Prefectura;SI;"1) Una acometida FO
+2) Cámara Frontera
+3) Gabinete Indoor Fiberhome
+6) ATN910B";Se conecta localmente en el mismo DC dde está el ATN;SI;Miguel Tobia
+ODF;ACTIVO;REFEFO AMBA;CIU30AC11;-;-;PFA;México 12;-34,614749;-58,367239;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI;Cable Puente;Actualmente consumen servicio a través de los Cisco ASR100X de la MAN 2.0;SI;Miguel Tobia
+ODF;ACTIVO;REFEFO AMBA;CIU30AC11;-;-;Prefectura;México 12;-34,614749;-58,367239;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI;Cable Puente;Actualmente consumen servicio a través de los Cisco ASR100X de la MAN 2.0;SI;Miguel Tobia
+Nodo;ACTIVO;REFEFO AMBA;CIU31AC11;CIU65AG11H;CIU34AC11;Ministerio de Trabajo;Av. Leandro N. Alem 650 Piso 9;-34,600310;-58,370901;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Pablo Olivera
+Nodo;SUSPENDIDO;REFEFO AMBA;CIU32AC11;NN;NN;Cancillería;Esmeralda 1216;-34,593861;-58,378867;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NO;"Obra de FO interna
+del Edificio terminada
+Falta Obra Civil en vereda
+y llegar con el CableTroncal";"A Integrar 45/60 días 
+Se conecta localmente en el mismo DC dde está el ATN";NO;Sin Asignación
+Nodo;ACTIVO;REFEFO AMBA;CIU33AC11;CIU46AC11;CIU28AC11;Sedronar;Sarmiento 546;-34,604555;-58,374463;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;OK;Pablo Olivera
+Nodo;ACTIVO;REFEFO AMBA;CIU34AC11;CIU31AC11;CBA2AG11H;Ministerio del Interior;Leandro N. Alem 168 PB;-34,605602;-58,370340;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;CNV, Provincia NET;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Martín Iguaín
+ODF;ACTIVO;REFEFO AMBA;CIU34AC11;-;-;Comisión Nacional de Valores;25 de Mayo 175;-34,605884;-58,370546;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI;Cable Puente;"CONTRATA TERCEROS ACTUALMENTE
+Tiene un cable puente entre el ODF de Min. Interior y el ODF que se instaló en el DC de CNV.";SI;Martín Iguaín
+ODF;ACTIVO;REFEFO AMBA;CIU34AC11;-;-;Provincia NET;Mitre 430;-34,606726;-58,372613;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;NO;Cable Puente;Acometida propia de ARSAT desde vereda. ODF en sala de Provedoores. DPT tiene Racks propios con equipos de borde.;SI;Martín Iguaín
+Nodo;ACTIVO;REFEFO AMBA;CIU35AC11;CIU36AC11;CIU79AC11;Ministerio de Justicia;Sarmiento 329 1° Subsuelo;-34,604186;-58,371495;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Pablo Olivera
+Nodo;ACTIVO;REFEFO AMBA;CIU36AC11;CIU65AG11H;CIU35AC11;Centro Cultural Kirchner (Secretaria de Medios);Sarmiento 151 piso 7;-34,603280;-58,369449;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;Secretaria de Medios, Centro Cultural;SI, NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+8) Baterías (4x12V x 20Ah)
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Miguel Tobia
+ODF;ACTIVO;REFEFO AMBA;CIU36AC11;-;-;Centro Cultural;Sarmiento 151;-34,603280;-58,369449;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI, NO;Cable Puente;Tiene un cable puente entre el ODF del Nodo en Medios y el ODF que se instaló en el DC del Centro Cultural.;SI;Miguel Tobia
+Nodo;ACTIVO;REFEFO AMBA;CIU37AC11;CIU65AG11H;CIU43AC11;Ministerio de Produccion;Av. Presidente Julio A. Roca 651;-34,610522;-58,375432;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;CONECTAR;Martín Iguaín
+Nodo;ACTIVO;REFEFO AMBA;CIU38AC11;CIU30AC11 ;-;Ministerio de Agroindustria;Av. Paseo Colón 982;-34,618603;-58,368063;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Una acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Martín Iguaín
+Nodo;ACTIVO;REFEFO AMBA;CIU42AC11;CIU65AG11H;CBA2AG11H;Ministerio de Desarrollo Social;Av. 9 de Julio 1925, Piso 20;-34,612183;-58,381454;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;Ministerio de Salud;SI, NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+8) Baterías (4x12V x 20Ah)
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Julio Bort
+ODF;ACTIVO;REFEFO AMBA;CIU42AC11;-;-;Ministerio de Salud;Av. 9 de Julio 1925, Piso 5;-34,612183;-58,381454;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI, NO;Cable Puente;Tiene Cable puente de FO entre DC MDS y DC MS con ODFs que instaló ARSAT;SI;María del Mar Andrada
+Nodo;ACTIVO;REFEFO AMBA;CIU43AC11;CIU37AC11;CIU47AC11;INDEC;Av. Presidente Julio A. Roca 609;-34,610190;-58,375287;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;NO;Martín Iguaín
+Nodo;ACTIVO;REFEFO AMBA;CIU45AC11;CIU65AG11H;CBA2AG11H;Casa Rosada;Balcarce 50;-34,608580;-58,370289;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;Secretaria de Legal y Técnica, Jefatura de Gabinete de Ministros;SI, NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Miguel Tobia
+ODF;ACTIVO;REFEFO AMBA;CIU45AC11;-;-;Sec. Legal Y Técnica;Balcarce 50;-34,608580;-58,370289;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI, NO;Cable Puente;Sin vínculo propio entre ATN y DC del Organismo;SI;Miguel Tobia
+ODF;ACTIVO;REFEFO AMBA;CIU45AC11;-;-;Jefatura de Gabinete de Ministros ;Balcarce 50;-34,608580;-58,370289;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;NO;-;SI, NO;Cable Puente;Sin vínculo propio entre ATN y DC del Organismo;SI;Miguel Tobia
+Nodo;ACTIVO;REFEFO AMBA;CIU46AC11;CIU49AC11;CIU33AC11 ;RENAPER;Av. Pres. Roque Sáenz Peña 671;-34,606379;-58,376119;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) Gabinete Indoor Fiberhome
+6) ATN910B";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;OK;Sin Asignación
+Nodo;ACTIVO;REFEFO AMBA;CIU47AC11;CIU43AC11;CBA2AG11H;ENACOM;Perú 103;-34,609453;-58,375347;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;CONECTAR;Miguel Tobia
+Nodo;SUSPENDIDO;REFEFO AMBA;CIU48AC11;NN;NN;Gendarmeria Nacional Argentina;Av. Antártida Argentina 1428;-34,583273;-58,373888;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Una acometida FO
+2) Cámara Frontera
+3) Gabinete Indoor Fiberhome
+6) ATN910B";"Sin conectar
+Se conecta localmente en el mismo DC dde está el ATN";NO;Francisco Jasminoy
+Nodo;ACTIVO;REFEFO AMBA;CIU49AC11;CIU67AC11;CIU46AC11;CNRT;Maipú 88;-34,607306;-58,376530;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;"1) Doble acometida FO
+2) Cámara Frontera
+3) Gabinete Indoor Fiberhome
+6) ATN910B";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;OK;Sin Asignación
+Nodo;ACTIVO;REFEFO AMBA;CIU65AG11H;BBNVPE14H;CBA2AG11H;Afip;Av. Paseo Colon 635;-34,615210;-58,369644;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;SI;Cable Puente;Sin observaciones.;NO;Francisco Jasminoy
+Nodo;ACTIVO;REFEFO AMBA;CIU66AC11;CIU65AG11H;CIU10AC11;Edificio Libertador (Ministerio de Defensa);Azopardo 250 Piso 11;-34,611780;-58,367450;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;Estado Mayor del Ejército, Estado Mayor Conjunto;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) Gabinete Indoor Fiberhome
+6) ATN910B";"Tiene un cable puente ""Multimodo"" entre el Rack del Anillo del Mindef ubicado en el DC del Ejército y el DC del M.Def.";SI;María del Mar Andrada
+ODF;ACTIVO;REFEFO AMBA;CIU66AC11;-;-;Estado Mayor del Ejército;Azopardo 250 Piso 1;-34,611780;-58,367450;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;-;NO;Cable Puente;"Tiene +cable puente ""Multimodo"" entre el Rack del Anillo del Mindef y el equipo del Ejército, Todo en el mismo DC del Piso 1.";SI;María del Mar Andrada
+ODF;ACTIVO;REFEFO AMBA;CIU66AC11;-;-;Estado Mayor Conjunto;Azopardo 250 Piso 12;-34,611780;-58,367450;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;SI;SI;-;NO;Cable Puente;"Tiene un cable puente ""Multimodo"" entre el Rack del Anillo del Mindef ubicado en el DC del Ejército y el DC del EMC.";SI;María del Mar Andrada
+Nodo;ACTIVO;REFEFO AMBA;CIU67AC11;CIU10AC11;CIU49AC11 ;SIP;Av. Pres. Roque Sáenz Peña 788;-34,606181;-58,377545;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+8)  Baterías (4x12V x 20Ah)
+*Todo en Rack del Organismo";El ATN se encuentra en el mismo DC donde está el equipo de borde del cliente.;SI;Miguel Tobia
+Nodo;SUSPENDIDO;REFEFO AMBA;CIU73AC11;NN;NN;Dirección Nacional de Migraciones;Av. Antártida Argentina 1355;-34,592878;-58,369411;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";"A Integrar 45/60 días 
+Se conecta localmente en el mismo DC dde está el ATN";NO;Pablo Olivera
+Nodo;SUSPENDIDO;REFEFO AMBA;CIU73AC11;NN;NN;Casa de la Moneda;Av. Antártida Argentina 2085;-34,583139;-58,371883;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";"Sin conectar
+Se conecta localmente en el mismo DC dde está el ATN";NO;Martín Iguaín
+Nodo;ACTIVO;REFEFO AMBA;CIU79AC11;CIU35AC11;CIU79AC11;Empleo Público;Av. Pres. Roque Sáenz Peña 511;-34,607592;-58,373823;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NO;NO;-;NO;"1) Doble acometida FO
+2) Cámara Frontera
+3) ODF 24 PD LC
+6) ATN910B
+7) Rectificador
+*Todo en Rack del Organismo";Se conecta localmente en el mismo DC dde está el ATN;SI;Sin Asignación
+Nodo;EN OBRA (SUSPENDIDA);REFEFO AMBA;CIU85AC11;NN;NN;Prefectura Naval Argentina;Av. Eduardo Madero 235 Piso xx;-34,604579;-58,367755;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NO;A DEFINIR;Se conecta localmente en el mismo DC dde está el ATN;NO;Francisco Jasminoy
+Nodo;SUSPENDIDO;REFEFO AMBA;NN;NN;NN;Hospital Garrahan;Pichincha 1890;-34,630689;-58,393295;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NN;"Obra civil terminada
+Cámara en Vereda y
+Acometida a Edificio.";"Sin conectar
+Se conecta localmente en el mismo DC dde está el ATN";NO;Sin Asignación
+Nodo;EN OBRA (SUSPENDIDA);REFEFO AMBA;CABA 1;NN;NN;AYSA;Tucuman 744;-34,601386;-58,377479;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;PROPIA;-;NN;NN;-;NN;A DEFINIR;Operaciones solicita contacto Comercial para Instalar el equipo. Antigua acometida de YPF Torre Blanca. ;CONECTAR;Sin Asignación
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
